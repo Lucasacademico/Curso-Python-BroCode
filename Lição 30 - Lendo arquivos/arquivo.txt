@@ -1,0 +1,3 @@
+Bom dia
+Você acaba de acessar um arquivo.
+Pode fechar se quiser.

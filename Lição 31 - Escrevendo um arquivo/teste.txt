@@ -1,0 +1,2 @@
+Linha 1 adicionada com o modo 'w'.
+Linha 2 adicionada com o modo 'a'.
